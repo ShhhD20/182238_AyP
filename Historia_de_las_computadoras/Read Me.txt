@@ -1,0 +1,3 @@
+*Nota*
+
+Los simbolos como acentos, aunque funciona con el codigo no se comparten en github
